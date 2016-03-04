@@ -39,6 +39,7 @@
 		<module>./FirmataTests</module>
 		<module>./ProcessingSerial</module>
 		<module>./IndepProcessingSerial</module>
+		<module>./JsscSerial</module>
 	</modules>
     
 </project>
